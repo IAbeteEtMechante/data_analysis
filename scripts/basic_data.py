@@ -42,4 +42,14 @@ def keyswithmaxval(d):
 			result.append(key)
 	return result
 
+
+"""
+how to sort according to a column
+#df = df.sort_values("event_time")
+"""
+
+"""
+how to groupby accordign to a column
+#
+"""
 	 
